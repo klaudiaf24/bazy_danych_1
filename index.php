@@ -4,7 +4,6 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <link rel="stylesheet" href="css/style.css">
-    <script src="js/main.js"></script>
     <title>Kartoteka sądownicza</title>
 </head>
 
