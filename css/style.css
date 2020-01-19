@@ -1,0 +1,37 @@
+body {
+  position: relative;
+  background: #595959;
+color: 	 #eee;
+}
+
+h1 {
+width:100%;
+text-align: center;
+font-size: 70px;
+margin-top: 10%}
+ #osoby {
+  display: inline-block;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 30px;
+  box-sizing: border-box;
+}
+
+a{
+  width: 30%;
+  box-sizing: border-box;
+  margin-left:auto;
+  margin-right:auto;
+  padding: 5%;
+  padding-top: 10%;
+  text-decoration: none;
+  color: white;
+
+}
+a:hover{
+font-size:150%;
+color: 	 #999999;
+}
+
